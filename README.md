@@ -3,7 +3,7 @@
 <h1 align="center">Hola 👋, Soy Emanuel</h1>
 <h3 align="center">Me apasiona el Desarrollo tanto Front como Back, y soy administrador de Linux y Asterisk</h3>
 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1XYkqotTWqJhRkGMD8Npu-dHADaM-VQSx/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelferreira-dev&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelferreira-dev" /> </p>
 
